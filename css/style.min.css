@@ -181,7 +181,7 @@ center-align {
 }
 img,
 svg {
-	max-width: 100%;
+	max-width: 60%;
 }
 .container {
 	width: 88%;
@@ -1279,7 +1279,7 @@ select::-ms-expand {
 }
 @media (min-width: 992px) {
 	.auth__media {
-		width: 50%;
+		width: 40%;
 		-ms-flex-negative: 0;
 		flex-shrink: 0;
 	}
