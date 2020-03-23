@@ -886,7 +886,7 @@ select::-ms-expand {
 }
 .hero__title {
 	color: inherit;
-	margin-bottom: 1.25em;
+	margin-bottom: 1em;
 }
 .hero__text {
 	opacity: 0.85;
